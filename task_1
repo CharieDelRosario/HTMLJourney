@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>About Myself</title>
+    <style>
+        body{
+            text-align:center;
+            background-color:black;
+            padding: 20px;
+            margin-left : 300px;
+            margin-right: 300px;
+        }
+        h1{
+            color: violet;
+        
+        }
+        p{
+            text-align: center;
+            color: yellow;
+            margin-bottom: 30px;
+        }
+    </style>
+  </head>
+  <body>
+        <h1>About Myself</h1>
+        <p>
+            Hi, I am <b>Charie B. Del Rosario</b>, 18 years old a multi-tasking and hardworking individual.
+            I’m a simple person, gifted with different talents and skills. I can sing, dance, swim, drive, build code, and much more. I have good communication skills, which help me become a friendly and approachable person. I believe in the saying, “Experience is the best teacher.” That belief has made me observant and curious about everything that helps me learn and grow. Currently, I’m studying different programming languages, focusing on building websites. I’m also actively involved in our church ministry and engaged in many other meaningful activities. I may be simple, but I have big dreams. I aim to build a good future so I can help my family and others in need.
+        </p>
+  </body>
+</html>
